@@ -20,4 +20,7 @@ export const inputStyles = css`
   input[inputmode='numeric'] {
     font-variant-numeric: tabular-nums;
   }
+  .calculator-footer.min-w-50.mt-4.text-center {
+    display: none;
+}
 `;
